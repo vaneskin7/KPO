@@ -1,0 +1,8 @@
+D:\KPOlabs\KPOlaba1\KPOlaba1\bin\Debug\KPOlaba1.exe.config
+D:\KPOlabs\KPOlaba1\KPOlaba1\bin\Debug\KPOlaba1.exe
+D:\KPOlabs\KPOlaba1\KPOlaba1\bin\Debug\KPOlaba1.pdb
+D:\KPOlabs\KPOlaba1\KPOlaba1\obj\Debug\KPOlaba1.csproj.AssemblyReference.cache
+D:\KPOlabs\KPOlaba1\KPOlaba1\obj\Debug\KPOlaba1.csproj.SuggestedBindingRedirects.cache
+D:\KPOlabs\KPOlaba1\KPOlaba1\obj\Debug\KPOlaba1.csproj.CoreCompileInputs.cache
+D:\KPOlabs\KPOlaba1\KPOlaba1\obj\Debug\KPOlaba1.exe
+D:\KPOlabs\KPOlaba1\KPOlaba1\obj\Debug\KPOlaba1.pdb
